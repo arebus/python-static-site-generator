@@ -1,6 +1,7 @@
 from pathlib import Path
 
 class Site:
+
     source = None
     dest = None
 
